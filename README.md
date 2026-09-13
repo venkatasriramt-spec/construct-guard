@@ -307,7 +307,7 @@ Frameworks:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/AYUSHMSINGH2004/ConstructGuard-AI.git
+git clone https://github.com/venkatasriramt-spec/construct-guard.git
 cd ConstructGuard-AI
 ```
 
