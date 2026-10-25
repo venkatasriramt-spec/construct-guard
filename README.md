@@ -1,22 +1,6 @@
 # 🏗️ ConstructGuard AI
 
-<div align="center">
-
-### AI-Powered Construction Defect Detection & Intelligent Inspection Platform
-
-<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow" />
-<img src="https://img.shields.io/badge/Gemini%202.5%20Flash-Generative%20AI-4285F4?style=for-the-badge&logo=google" />
-
-<br>
-
-[![Frontend](https://img.shields.io/badge/Frontend-Live-success?style=for-the-badge)](https://0cb1d45e.constructguard-ai.pages.dev/)
-[![Backend](https://img.shields.io/badge/Backend-Live-blue?style=for-the-badge)](https://ayushmsingh2004-constructguard-backend.hf.space/)
-[![API Docs](https://img.shields.io/badge/API-Documentation-orange?style=for-the-badge)](https://ayushmsingh2004-constructguard-backend.hf.space/docs)
-
-### 🔍 Detect • Analyze • Explain • Recommend
+<div align="left">
 
 ConstructGuard AI leverages Deep Learning, Computer Vision, and Google Gemini 2.5 Flash to automatically identify construction defects from images and generate professional inspection reports with actionable recommendations.
 
